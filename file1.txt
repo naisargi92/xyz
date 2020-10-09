@@ -1,5 +1,5 @@
-
 dir
-
-
-cd
+cd 
+md
+commit
+add .
